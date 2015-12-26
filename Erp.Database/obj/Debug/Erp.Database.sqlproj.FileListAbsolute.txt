@@ -1,0 +1,19 @@
+c:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Database\bin\Debug\Erp.Database.dacpac
+c:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Database\bin\Debug\Erp.Database.dll
+c:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Database\bin\Debug\Erp.Database.pdb
+c:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Database\obj\Debug\Erp.Database.dll
+c:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Database\obj\Debug\Erp.Database.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Database\bin\Debug\Erp.Database.dacpac
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Database\bin\Debug\Erp.Database.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Database\bin\Debug\Erp.Database.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Database\obj\Debug\Erp.Database.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Database\obj\Debug\Erp.Database.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Database\bin\Debug\Erp.Database.dacpac
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Database\bin\Debug\Erp.Database.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Database\bin\Debug\Erp.Database.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Database\obj\Debug\Model.xml
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Database\obj\Debug\refactor.xml
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Database\obj\Debug\postdeploy.sql
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Database\obj\Debug\predeploy.sql
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Database\obj\Debug\Erp.Database.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Database\obj\Debug\Erp.Database.pdb

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B06A8C97-CEDA-4837-A932-30D557A2EE0C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Erp.DataAccess</RootNamespace>
+    <AssemblyName>Erp.DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounts\AccountReceiptRepository.cs" />
+    <Compile Include="Accounts\ChartOfAccountRepository.cs" />
+    <Compile Include="Common\AccountTypeRepository.cs" />
+    <Compile Include="Common\CompanyRepository.cs" />
+    <Compile Include="Common\CountryRepository.cs" />
+    <Compile Include="Common\DeliveryTermsRepository.cs" />
+    <Compile Include="Common\GradeRepository.cs" />
+    <Compile Include="Common\ItemSizeRepository.cs" />
+    <Compile Include="Common\MakeRepository.cs" />
+    <Compile Include="Common\MaterialRepository.cs" />
+    <Compile Include="Common\PaymentMethodRepository.cs" />
+    <Compile Include="Common\PaymentTermsRepository.cs" />
+    <Compile Include="Common\ProductRepository.cs" />
+    <Compile Include="Common\UnitsRepository.cs" />
+    <Compile Include="Core\IRepository.cs" />
+    <Compile Include="Core\RepositoryBase.cs" />
+    <Compile Include="Helper\DataContextExtensions.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sales\CustomerContactRepository.cs" />
+    <Compile Include="Sales\CustomerRepository.cs" />
+    <Compile Include="Sales\DailyCustomerVisitRepositiory.cs" />
+    <Compile Include="Common\ProjectRepository.cs" />
+    <Compile Include="Sales\SalesExecutiveRepository.cs" />
+    <Compile Include="Transaction\DeliveryNoteMasterRepository.cs" />
+    <Compile Include="Transaction\EnquiryMasterRepository.cs" />
+    <Compile Include="Transaction\InvoiceMasterRepository.cs" />
+    <Compile Include="Transaction\ProFormaInvoiceMasterRepository.cs" />
+    <Compile Include="Transaction\QuotationMasterRepository.cs" />
+    <Compile Include="Transaction\SalesOrderMasterRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Erp.DataMapping\Erp.DataMapping.csproj">
+      <Project>{30595b39-df00-46ae-9720-a39377ec4f11}</Project>
+      <Name>Erp.DataMapping</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="bin\Debug\Erp.DataAccess.dll.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\EntityFramework.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\Debug\EntityFramework.SqlServer.xml" />
+    <Content Include="bin\Debug\EntityFramework.xml" />
+    <Content Include="bin\Debug\Erp.DataAccess.dll" />
+    <Content Include="bin\Debug\Erp.DataAccess.pdb" />
+    <Content Include="bin\Debug\Erp.DataMapping.dll" />
+    <Content Include="bin\Debug\Erp.DataMapping.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,50 @@
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Erp.Idendity.dll.config
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Erp.Idendity.dll
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Erp.Idendity.pdb
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\obj\Debug\Erp.Idendity.dll
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\obj\Debug\Erp.Idendity.pdb
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\obj\Debug\Erp.Idendity.csprojResolveAssemblyReference.cache
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\EntityFramework.xml
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\EntityFramework.SqlServer.xml
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.Owin.xml
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.Owin.Security.xml
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Erp.Idendity.dll.config
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Erp.Idendity.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Erp.Idendity.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\obj\Debug\Erp.Idendity.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\obj\Debug\Erp.Idendity.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\obj\Debug\Erp.Idendity.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Erp.Idendity.dll.config
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Erp.Idendity.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Erp.Idendity.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\obj\Debug\Erp.Idendity.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\obj\Debug\Erp.Idendity.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\obj\Debug\Erp.Idendity.pdb
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.Idendity\bin\Debug\Erp.Idendity.dll.config
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.Idendity\bin\Debug\Erp.Idendity.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.Idendity\bin\Debug\Erp.Idendity.pdb
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.Idendity\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.Idendity\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.Idendity\obj\Debug\Erp.Idendity.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.Idendity\obj\Debug\Erp.Idendity.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.Idendity\obj\Debug\Erp.Idendity.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Idendity\bin\Debug\Erp.Idendity.dll.config
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Idendity\bin\Debug\Erp.Idendity.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Idendity\bin\Debug\Erp.Idendity.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Idendity\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Idendity\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Idendity\obj\Debug\Erp.Idendity.csprojResolveAssemblyReference.cache
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Idendity\obj\Debug\Erp.Idendity.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.Idendity\obj\Debug\Erp.Idendity.pdb

@@ -1,0 +1,311 @@
+@import url(http://fonts.googleapis.com/css?family=Exo&subset=latin,latin-ext);
+
+body {
+    font-family: 'Exo2';
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.erp-image-thumb {
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+.erp-shortcuts-panel .x-btn-icon-el {
+    font-size: 32px;
+    color: #8421AA;
+}
+
+.thumb {
+    height: 123px;
+    border: 1px solid #000;
+    margin: 10px 5px 0 0;
+    width: 185px;
+}
+
+.erp-rm-border {
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+}
+
+.x-toolbar .x-toolbar-text {
+    background-repeat: no-repeat;
+    padding: 0 20px;
+}
+
+.erp-modules-shortcuts {
+    font-size: 12px;
+    cursor: pointer;
+    padding: 10px 0px;
+    font-family: Tahoma;
+    border-top: solid 1px #99BCE8;
+}
+
+.erp-module-name {
+    padding: 10px 30px;
+    background-repeat: no-repeat;
+    background-position: 5% center;
+}
+
+.x-item-selected {
+    color: #FFF;
+    background-color: #1E90FF;
+}
+
+.erp-shortcuts-panel {
+    background: url('../images/bg/square.gif');
+}
+
+.erp-shortcut-btn {
+    z-index: 1;
+    border: solid 1px #1E90FF;
+    border-width: 1px;
+    background-color: #FFF;
+    background-image: none;
+}
+
+    .erp-shortcut-btn:hover {
+        border: solid 1px #FFF;
+        border-width: 1px;
+        background-color: #1E90FF;
+        color: #FFF;
+        background-image: none;
+    }
+
+        .erp-shortcut-btn:hover .x-btn-inner {
+            color: #FFF;
+        }
+
+    .erp-shortcut-btn.x-btn-default-large {
+        z-index: 1;
+        border: solid 1px #1E90FF;
+        border-width: 1px;
+        background-color: #FFF;
+        background-image: none;
+    }
+
+        .erp-shortcut-btn.x-btn-default-large:hover {
+            border: solid 1px #FFF;
+            border-width: 1px;
+            background-color: #1E90FF;
+            color: #FFF;
+            background-image: none;
+        }
+
+            .erp-shortcut-btn.x-btn-default-large:hover .x-btn-inner {
+                color: #FFF;
+            }
+
+.erp-general-shortcut-btn {
+    z-index: 1;
+    border: solid 1px #87C6F8;
+    background-color: #87C6F8;
+}
+
+.erp-shortcut-path {
+    z-index: 0;
+    background-color: #1E90FF;
+}
+
+.erp-home-header {
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 15px 10px;
+    color: #105A94;
+    background-image: url('../images/bg/header_bg_signup_office.jpg') !important;
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+
+.erp-home-company-name {
+    background-image: url('../images/32/measure.png') !important;
+    background-repeat: no-repeat;
+    padding: 0 35px;
+    height: 35px;
+}
+
+.erp-home-sub-header {
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 12px;
+    color: #333;
+}
+
+.erp-home-info-panel {
+    padding: 5px 5px;
+}
+
+.erp-info-panel-title {
+    font-weight: bold;
+}
+
+.erp-shortcut-tree {
+    padding: 3px 5px;
+}
+
+.erp-login-icon-title {
+    background-image: url("../images/16/lock.png");
+}
+
+.erp-login-header {
+    background: transparent url("../images/32/lock.png") no-repeat left center;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 10px 10px 10px 45px;
+}
+
+    .erp-login-header .error {
+        color: red;
+    }
+
+.erp-login-icon-login {
+    background-image: url("../images/24/login.png");
+}
+
+.erp-login-icon-cancel {
+    background-image: url("../images/24/close.png");
+}
+
+.erp-login-warning {
+    background: url("../images/16/warning.png") no-repeat center left;
+    padding: 2px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.erp-grid-without-top-border .x-grid-header-ct {
+    border-top: none;
+}
+
+.x-grid-row-summary td div.x-grid-cell-inner {
+    font-weight: bold;
+}
+
+.x-form-text-default {
+    background-image: none;
+}
+
+.erp-shortcut-circle {
+    background: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    z-index: 2;
+    color: #333;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 28px;
+}
+
+.erp-image-thumb {
+    background: #dddddd;
+    padding: 3px;
+    padding-bottom: 0;
+}
+
+
+.erp-profile-pic {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    border: solid 5px #FFF;
+    box-shadow: 10px 5px 15px #CCC;
+    border-radius: 50%;
+}
+
+.erp-employee-info {
+}
+
+    .erp-employee-info:hover {
+        background-color: #105A94;
+        color: #FFF;
+    }
+
+.x-form-text-default {
+    background-image: none;
+}
+
+.erp-fieldset {
+    border-radius: 0px;
+    border-bottom: none;
+    border-right: 0px;
+    border-left: 0px;
+}
+
+.erp-notification-green {
+    border: 1px solid #C7D1BF;
+    border-radius: 3px;
+    padding: 5px;
+    color: #3c763d;
+    background-color: #dff0d8;
+    margin: 10px;
+    margin-bottom: 0px;
+    padding: 5px;
+}
+
+.erp-rollin {
+    -webkit-animation: bounceDown 1s; /* Safari 4+ */
+}
+
+
+.erp-doc-view {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFF;
+    border: solid 1px #CCC;
+    margin: 5px;
+    box-shadow: 0px 10px 15px 0px #CCC;
+    padding: 10px;
+}
+
+
+    .erp-doc-view table {
+        width: 100%;
+        border: solid 1px #1E90FF;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+
+        .erp-doc-view table th {
+            padding: 8px;
+            font-family: Tahoma;
+            background-color: rgb(217, 234, 252);
+        }
+
+        .erp-doc-view table td.erp-doc-title {
+            padding: 8px;
+            background-color: #1E90FF;
+            color: #FFF;
+        }
+
+        .erp-doc-view table td {
+            padding: 5px;
+        }
+.ux-icon-combo-icon {
+    background-repeat: no-repeat;
+    background-position: 0 50%;
+    width: 18px;
+    height: 14px;
+}
+
+/* X-BROWSER-WARNING: this is not being honored by Safari */
+.ux-icon-combo-input {
+    padding-left: 25px;
+}
+
+.x-form-item-body .ux-icon-combo-icon {
+    top: 4px;
+    left: 5px;
+}
+.ux-icon-combo-item {
+    background-repeat: no-repeat ! important;
+    background-position: 3px 50% ! important;
+    padding-left: 24px ! important;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Erp",
+  "version": "1.0.0",
+  "description": "Test ExtJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasimea/Erp_Account.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasimea/Erp_Account/issues"
+  },
+  "homepage": "https://github.com/jasimea/Erp_Account",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.10.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^3.1.0",
+    "time-grunt": "^1.1.0"
+  }
+}

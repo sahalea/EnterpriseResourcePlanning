@@ -1,0 +1,21 @@
+
+
+@mixin icon($icon, $path) {
+	.#{$icon} {
+		background-image: url('#{$path}') !important;
+	}
+}
+
+@mixin icon-16($icon-collections) {
+	@each $icon in $icon-collections {
+		@include icon($icon, $icon-base-path + '/16/' + $icon + '.png');
+	}
+}
+
+@mixin icon-32($icon-collections) {
+  @each $icon in $icon-collections {
+    @include icon($icon, $icon-base-path + '/32/' + $icon + '.png');
+  }
+}
+
+

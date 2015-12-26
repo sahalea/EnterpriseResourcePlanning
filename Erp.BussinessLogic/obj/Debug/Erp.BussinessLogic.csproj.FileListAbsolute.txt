@@ -1,0 +1,44 @@
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.dll.config
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.DataAccess.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.DataAccess.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.DataMapping.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.dll.config
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.DataAccess.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.DataAccess.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.BussinessLogic\bin\Debug\Erp.DataMapping.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.pdb
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.dll.config
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.pdb
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.DataAccess.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.DataAccess.pdb
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.DataMapping.pdb
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.dll.config
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.BussinessLogic.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.DataAccess.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.DataMapping.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\EntityFramework.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.DataAccess.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.BussinessLogic\bin\Debug\Erp.DataMapping.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.csprojResolveAssemblyReference.cache
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.BussinessLogic\obj\Debug\Erp.BussinessLogic.pdb

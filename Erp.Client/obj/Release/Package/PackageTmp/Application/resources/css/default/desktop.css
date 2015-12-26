@@ -1,0 +1,353 @@
+/*!
+* Ext JS Library 4.0
+* Copyright(c) 2006-2011 Sencha Inc.
+* licensing@sencha.com
+* http://www.sencha.com/license
+*/
+/* line 8, ../../sass/src/App.scss */
+#poweredby {
+  position: absolute;
+  bottom: 40px;
+  right: 20px;
+  z-index: 15000;
+  /* IE 5-7 */
+  filter: alpha(opacity=70);
+  /* Netscape */
+  -moz-opacity: 0.7;
+  /* Safari 1.x */
+  -khtml-opacity: 0.7;
+  /* Good browsers */
+  opacity: 0.7;
+}
+
+/* line 24, ../../sass/src/App.scss */
+#poweredby div {
+  position: relative;
+  width: 150px;
+  height: 25px;
+  background-image: url(../../images/powered-by-ext-js.png);
+  background-repeat: no-repeat;
+}
+
+/* The simple background image PNG does not work in IE6-8, but does in IE9 */
+/* line 33, ../../sass/src/App.scss */
+.x-ie6 #poweredby div,
+.x-ie7 #poweredby div,
+.x-ie8 #poweredby div {
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../images/powered-by-ext-js.png', sizingMethod='scale');
+}
+
+/*----------------------------------------------------
+    Start Button
+*/
+/* line 44, ../../sass/src/App.scss */
+.ux-start-button-icon {
+  background-image: url(../../images/taskbar/sencha.gif) !important;
+  background-color: transparent;
+}
+
+/* line 49, ../../sass/src/App.scss */
+.ux-start-button .x-btn-arrow {
+  background-image: none;
+}
+
+/* line 53, ../../sass/src/App.scss */
+.ux-taskbar {
+  padding-left: 4px !important;
+}
+
+/*
+    Start Button (Black)
+*/
+/* line 61, ../../sass/src/App.scss */
+.ux-desktop-black .ux-start-button {
+  height: 28px;
+  padding: 0px;
+  display: block;
+}
+
+/* line 67, ../../sass/src/App.scss */
+.ux-desktop-black .ux-start-button em {
+  margin-top: 5px;
+}
+
+/* line 71, ../../sass/src/App.scss */
+.ux-desktop-black .ux-start-button .x-btn-inner {
+  color: black;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+/* line 77, ../../sass/src/App.scss */
+.ux-desktop-black .ux-start-button {
+  background-image: -moz-linear-gradient(center top, #E4F3FF, #D9EDFF 48%, #C2D8F2 52%, #C6DCF6);
+  border-radius: 8px 8px 8px 8px;
+  border-color: #81A4D0;
+}
+
+/*----------------------------------------------------
+    Start Menu
+*/
+/* line 87, ../../sass/src/App.scss */
+.ux-start-menu-toolbar .x-btn-inner {
+  text-align: left;
+}
+
+/* line 91, ../../sass/src/App.scss */
+.ux-start-menu-toolbar {
+  padding: 4px !important;
+}
+
+/*----------------------------------------------------
+    TaskBar
+*/
+/* Use high specificity selector to override default styling*/
+/* line 100, ../../sass/src/App.scss */
+div.ux-taskbar div.x-toolbar {
+  background: transparent none;
+  border: 0 none;
+  padding: 0;
+}
+
+/* line 106, ../../sass/src/App.scss */
+.ux-desktop-windowbar .x-btn-inner,
+.x-nbr .ux-desktop-windowbar .x-btn-icon-text-left button {
+  text-align: left !important;
+}
+
+/*
+    TaskBar (Black)
+*/
+/* line 115, ../../sass/src/App.scss */
+.ux-desktop-black .ux-taskbar {
+  background: transparent url("../../imagesimages/taskbar/black/taskbar-start-panel-bg.gif") repeat-x left top;
+  border-color: transparent;
+  /*height: 30px;*/
+}
+
+/* line 121, ../../sass/src/App.scss */
+.ux-desktop-black .ux-taskbar .x-splitter {
+  background: transparent url(../../images/taskbar/black/taskbar-split-h.gif) no-repeat scroll 0 -2px;
+}
+
+/* line 125, ../../sass/src/App.scss */
+.ux-desktop-black .ux-taskbar .x-toolbar-text {
+  color: white !important;
+}
+
+/* line 129, ../../sass/src/App.scss */
+.ux-desktop-black .ux-taskbar .x-btn-default-toolbar-small-over {
+  background-color: yellow;
+}
+
+/* line 133, ../../sass/src/App.scss */
+.ux-desktop-black .ux-taskbar .x-btn-inner {
+  color: white;
+}
+
+/* line 137, ../../sass/src/App.scss */
+.ux-desktop-black .ux-taskbar .x-btn-pressed .x-btn-inner, .ux-taskbar .x-btn-over .x-btn-inner {
+  color: black;
+}
+
+/*----------------------------------------------------
+    Tray Clock
+*/
+/* line 145, ../../sass/src/App.scss */
+.ux-desktop-trayclock {
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/*----------------------------------------------------
+    Desktop DataView
+*/
+/* line 156, ../../sass/src/App.scss */
+.ux-wallpaper {
+  background-color: #3d71b8;
+}
+
+/* line 160, ../../sass/src/App.scss */
+.ux-wallpaper-tiled {
+  background-repeat: repeat;
+}
+
+/* line 164, ../../sass/src/App.scss */
+.ux-desktop-shortcut {
+  cursor: pointer;
+  text-align: center;
+  padding: 8px;
+  margin: 8px;
+  width: 64px;
+}
+
+/* line 172, ../../sass/src/App.scss */
+.ux-desktop-shortcut-icon {
+  width: 48px;
+  height: 48px;
+  background-color: transparent;
+  background-repeat: no-repeat;
+}
+
+/* line 179, ../../sass/src/App.scss */
+.ux-desktop-shortcut-text {
+  font: normal 10px tahoma,arial,verdana,sans-serif;
+  text-decoration: none;
+  padding-top: 5px;
+  color: white;
+}
+
+/* line 186, ../../sass/src/App.scss */
+.x-view-over .ux-desktop-shortcut-text {
+  text-decoration: underline;
+}
+
+/*----------------------------------------------------
+    Various icon classes
+*/
+/* line 195, ../../sass/src/App.scss */
+.accordion-shortcut {
+  background-image: url(../../images/im48x48.png);
+}
+
+/* line 199, ../../sass/src/App.scss */
+.cpu-shortcut {
+  background-image: url(../../images/statusLarge.png);
+}
+
+/* line 203, ../../sass/src/App.scss */
+.grid-shortcut {
+  background-image: url(../../images/grid48x48.png);
+}
+
+/* line 207, ../../sass/src/App.scss */
+.notepad-shortcut {
+  background-image: url(../../images/notepadLarge.png);
+  width: 46px;
+  height: 46px;
+}
+
+/* line 213, ../../sass/src/App.scss */
+.x-ie6 .accordion-shortcut {
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../images/im48x48.png', sizingMethod='scale');
+}
+
+/* line 218, ../../sass/src/App.scss */
+.x-ie6 .cpu-shortcut {
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../images/statusLarge.png', sizingMethod='scale');
+}
+
+/* line 223, ../../sass/src/App.scss */
+.x-ie6 .grid-shortcut {
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../images/grid48x48.png', sizingMethod='scale');
+}
+
+/* line 228, ../../sass/src/App.scss */
+.x-ie6 .notepad-shortcut {
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../images/notepadLarge.png', sizingMethod='scale');
+}
+
+/* line 233, ../../sass/src/App.scss */
+.video {
+  background-image: url(../../images/gears.gif);
+}
+
+/* line 237, ../../sass/src/App.scss */
+.bogus {
+  background-image: url(../../images/bogus.png) !important;
+}
+
+/* line 241, ../../sass/src/App.scss */
+.notepad {
+  background-image: url(../../images/bogus.png) !important;
+}
+
+/* line 245, ../../sass/src/App.scss */
+.logout {
+  background-image: url(../../images/logout.gif) !important;
+}
+
+/* line 249, ../../sass/src/App.scss */
+.settings {
+  background-image: url(../../images/gears.gif) !important;
+}
+
+/* line 254, ../../sass/src/App.scss */
+.icon-grid {
+  background-image: url(../../images/grid.png) !important;
+}
+
+/* line 257, ../../sass/src/App.scss */
+.add {
+  background-image: url(../../shared/icons/fam/add.gif) !important;
+}
+
+/* line 260, ../../sass/src/App.scss */
+.option {
+  background-image: url(../../shared/icons/fam/plugin.gif) !important;
+}
+
+/* line 263, ../../sass/src/App.scss */
+.remove {
+  background-image: url(../../shared/icons/fam/delete.gif) !important;
+}
+
+/* line 266, ../../sass/src/App.scss */
+.save {
+  background-image: url(../../shared/icons/save.gif) !important;
+}
+
+/* line 269, ../../sass/src/App.scss */
+.accordion {
+  background-image: url(images/accordian.gif) !important;
+}
+
+/* line 272, ../../sass/src/App.scss */
+.tabs {
+  background-image: url(images/tabs.gif) !important;
+}
+
+/*----------------------------------------------------
+    IM window icons
+*/
+/* line 280, ../../sass/src/App.scss */
+.user {
+  background-image: url(../../shared/icons/fam/user.gif) !important;
+}
+
+/* line 284, ../../sass/src/App.scss */
+.user-add {
+  background-image: url(../../shared/icons/fam/user_add.gif) !important;
+}
+
+/* line 288, ../../sass/src/App.scss */
+.user-delete {
+  background-image: url(../../shared/icons/fam/user_delete.gif) !important;
+}
+
+/* line 292, ../../sass/src/App.scss */
+.connect {
+  background-image: url(../../shared/icons/fam/connect.gif) !important;
+}
+
+/* line 296, ../../sass/src/App.scss */
+.user-girl {
+  background-image: url(../../shared/icons/fam/user_female.gif) !important;
+}
+
+/* line 300, ../../sass/src/App.scss */
+.user-kid {
+  background-image: url(../../shared/icons/fam/user_green.gif) !important;
+}
+
+/* line 304, ../../sass/src/App.scss */
+.user-suit {
+  background-image: url(../../shared/icons/fam/user_suit.gif) !important;
+}

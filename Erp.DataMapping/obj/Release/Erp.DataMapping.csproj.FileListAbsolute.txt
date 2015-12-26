@@ -1,0 +1,18 @@
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\bin\Release\Erp.DataMapping.dll.config
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\bin\Release\Erp.DataMapping.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\bin\Release\Erp.DataMapping.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\bin\Release\EntityFramework.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\obj\Release\Erp.DataMapping.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\obj\Release\Erp.DataMapping.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\obj\Release\Erp.DataMapping.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Release\Erp.DataMapping.dll.config
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Release\Erp.DataMapping.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Release\Erp.DataMapping.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Release\EntityFramework.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Release\Newtonsoft.Json.xml
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\obj\Release\Erp.DataMapping.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\obj\Release\Erp.DataMapping.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\obj\Release\Erp.DataMapping.pdb

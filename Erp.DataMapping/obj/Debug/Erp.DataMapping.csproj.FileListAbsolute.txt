@@ -1,0 +1,38 @@
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\Erp.DataMapping.dll.config
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\Erp.DataMapping.dll
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\Erp.DataMapping.pdb
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.DataMapping\obj\Debug\Erp.DataMapping.dll
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.DataMapping\obj\Debug\Erp.DataMapping.pdb
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.DataMapping\obj\Debug\Erp.DataMapping.csprojResolveAssemblyReference.cache
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\EntityFramework.xml
+I:\Workspace\Erp\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\obj\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\obj\Debug\Erp.DataMapping.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\Erp.DataMapping.dll.config
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\Erp.DataMapping.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataMapping\obj\Debug\Erp.DataMapping.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\Erp.DataMapping.dll.config
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\Erp.DataMapping.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\obj\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\obj\Debug\Erp.DataMapping.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataMapping\obj\Debug\Erp.DataMapping.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataMapping\bin\Debug\Erp.DataMapping.dll.config
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataMapping\bin\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataMapping\bin\Debug\Erp.DataMapping.pdb
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataMapping\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataMapping\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataMapping\obj\Debug\Erp.DataMapping.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataMapping\obj\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataMapping\obj\Debug\Erp.DataMapping.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataMapping\bin\Debug\Erp.DataMapping.dll.config
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataMapping\bin\Debug\Erp.DataMapping.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataMapping\bin\Debug\Erp.DataMapping.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataMapping\bin\Debug\Newtonsoft.Json.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataMapping\bin\Debug\Newtonsoft.Json.xml
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataMapping\obj\Debug\Erp.DataMapping.csprojResolveAssemblyReference.cache
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataMapping\obj\Debug\Erp.DataMapping.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataMapping\obj\Debug\Erp.DataMapping.pdb

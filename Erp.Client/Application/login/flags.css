@@ -1,0 +1,16 @@
+.flag-us {
+	background-image:url(images/icons/small/flags/us.gif) !important;
+}
+.flag-ae {
+	background-image:url(images/icons/small/flags/ae.png) !important;
+}
+.flag-in {
+	background-image:url(images/icons/small/flags/in.png) !important;
+}
+.user {
+	background-image:url(../resources/images/16/user.png) !important;	
+}
+
+.key {
+	background-image:url(../resources/images/16/key.png) !important;	
+}

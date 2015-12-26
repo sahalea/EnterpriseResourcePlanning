@@ -1,0 +1,20 @@
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Release\Erp.DataAccess.dll.config
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Release\Erp.DataAccess.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Release\Erp.DataAccess.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Release\Erp.DataMapping.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Release\Erp.DataMapping.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\obj\Release\Erp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\obj\Release\Erp.DataAccess.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\obj\Release\Erp.DataAccess.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Release\Erp.DataAccess.dll.config
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Release\Erp.DataAccess.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Release\Erp.DataAccess.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Release\Erp.DataMapping.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Release\Erp.DataMapping.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\obj\Release\Erp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\obj\Release\Erp.DataAccess.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\obj\Release\Erp.DataAccess.pdb

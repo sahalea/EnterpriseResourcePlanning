@@ -1,0 +1,32 @@
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\obj\Debug\Erp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Debug\Erp.DataAccess.dll.config
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Debug\Erp.DataAccess.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Debug\Erp.DataAccess.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\bin\Debug\Erp.DataMapping.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\obj\Debug\Erp.DataAccess.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.DataAccess\obj\Debug\Erp.DataAccess.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Debug\Erp.DataAccess.dll.config
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Debug\Erp.DataAccess.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Debug\Erp.DataAccess.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\bin\Debug\Erp.DataMapping.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\obj\Debug\Erp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\obj\Debug\Erp.DataAccess.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.DataAccess\obj\Debug\Erp.DataAccess.pdb
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataAccess\bin\Debug\Erp.DataAccess.dll.config
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataAccess\bin\Debug\Erp.DataAccess.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataAccess\bin\Debug\Erp.DataAccess.pdb
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataAccess\bin\Debug\Erp.DataMapping.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataAccess\bin\Debug\Erp.DataMapping.pdb
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataAccess\obj\Debug\Erp.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataAccess\obj\Debug\Erp.DataAccess.dll
+C:\Users\Sahal\Videos\EnterpriseResourcePlanning\Erp.DataAccess\obj\Debug\Erp.DataAccess.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataAccess\bin\Debug\Erp.DataAccess.dll.config
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataAccess\bin\Debug\Erp.DataAccess.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataAccess\bin\Debug\Erp.DataAccess.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataAccess\bin\Debug\Erp.DataMapping.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataAccess\bin\Debug\Erp.DataMapping.pdb
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataAccess\obj\Debug\Erp.DataAccess.csprojResolveAssemblyReference.cache
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataAccess\obj\Debug\Erp.DataAccess.dll
+F:\workspace asp\Erpbackup\EnterpriseResourcePlanning\Erp.DataAccess\obj\Debug\Erp.DataAccess.pdb

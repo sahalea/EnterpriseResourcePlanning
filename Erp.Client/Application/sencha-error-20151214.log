@@ -1,0 +1,121 @@
+Sencha Cmd 6.0.2.14 - Crash report
+================================================
+An error occurred while executing the following command: app build
+
+Diagnostic information:
+=======================
+                         app.archivePath : archive                                           
+                      app.bootstrap.base : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application
+                       app.bootstrap.css : bootstrap.css                                     
+                  app.bootstrap.manifest : bootstrap.json                                    
+               app.bootstrap.microloader : bootstrap.js                                      
+                           app.classpath : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application/app
+                         app.cmd.version : 5.1.2.52                                          
+                          app.config.dir : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application\.sencha\app
+                   app.cordova.config.id : com.domain.Lattice                                
+                 app.cordova.config.name : Lattice                                           
+                 app.cordova.config.path : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application/cordova
+               app.cordova.config.target :                                                   
+              app.cordova.config.verbose : false                                             
+                   app.cordova.js.0.path : cordova.js                                        
+               app.cordova.js.0.priority : 1000                                              
+                 app.cordova.js.0.remote : true                                              
+                   app.cordova.js.length : 1                                                 
+                 app.cordova.microloader : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application\.sencha\app/Microloader.js
+                 app.cordova.output.base : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application/cordova/www
+         app.cordova.output.cache.enable : false                                             
+        app.cordova.output.deltas.enable : false                                             
+                                 app.dir : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application
+                           app.framework : ext                                               
+                   app.framework.version : 5.1.0.107                                         
+                                  app.id : 660cc63a-bf5e-4d9f-9f58-7c089fab46d4              
+                       app.indexHtmlPath : index.html                                        
+                                app.name : Lattice                                           
+                         app.output.base : ${workspace.build.dir}/${build.environment}/Lattice
+                 app.output.cache.enable : false                                             
+                app.output.deltas.enable : false                                             
+           app.output.microloader.enable : true                                              
+                           app.overrides : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application/overrides
+                           app.page.name : index.html                                        
+                  app.phonegap.config.id : com.domain.Lattice                                
+                app.phonegap.config.name : Lattice                                           
+                app.phonegap.config.path : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application/phonegap
+              app.phonegap.config.remote : false                                             
+             app.phonegap.config.verbose : false                                             
+                  app.phonegap.js.0.path : phonegap.js                                       
+              app.phonegap.js.0.priority : 1000                                              
+                app.phonegap.js.0.remote : true                                              
+                  app.phonegap.js.length : 1                                                 
+                app.phonegap.microloader : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application\.sencha\app/Microloader.js
+                app.phonegap.output.base : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application/phonegap/www
+        app.phonegap.output.cache.enable : false                                             
+       app.phonegap.output.deltas.enable : false                                             
+          app.production.compressor.type : yui                                               
+                      app.requires.names : null                                              
+                   app.requires.packages : null                                              
+                      app.resource.paths : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application/resources
+                        app.sass.etcpath : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application/sass/etc/all.scss
+                      app.sass.namespace : Lattice                                           
+                        app.sass.srcpath : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application/sass/src
+                        app.sass.varpath : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application/sass/var
+        app.slicer.js.0.isWidgetManifest : true                                              
+                    app.slicer.js.0.path : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application/sass/example/custom.js
+                    app.slicer.js.length : 1                                                 
+         app.testing.output.cache.enable : false                                             
+        app.testing.output.deltas.enable : false                                             
+                               app.theme : ext-theme-neptune                                 
+                             app.version : 1.0.0.0                                           
+                    buildenvironment.dir : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application
+               buildenvironment.load.dir : C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Client\Application
+                          cmd.config.dir : C:\Users\Sahal\bin\Sencha\Cmd\6.0.2.14            
+                                 cmd.dir : C:\Users\Sahal\bin\Sencha\Cmd\6.0.2.14            
+                            cmd.jvm.args : -Xms128m -Xmx1024m -Dapple.awt.UIElement=true     
+              cmd.merge.tool.args.araxis : -wait -merge -3 -a1 {base} {user} {generated} {out}
+              cmd.merge.tool.args.kdiff3 : {base} {user} {generated} -o {out}                
+             cmd.merge.tool.args.p4merge : {base} {user} {generated} {out}                   
+           cmd.merge.tool.args.smartsync : {user} {generated} {base}                         
+          cmd.merge.tool.args.sourcegear : --merge --result={out} {user} {base} {generated}  
+            cmd.merge.tool.args.tortoise : -base:{base} -theirs:{generated} -mine:{user} -merged:{out}
+                              cmd.minver : 3.0.0.0                                           
+                            cmd.platform : windows                                           
+                         cmd.server.port : 1841                                              
+                     cmd.unicode.escapes : C:\Users\Sahal\bin\Sencha\Cmd\6.0.2.14/unicode-escapes.json
+                             cmd.version : 6.0.2.14                                          
+                            cmd.web.port : 1841                                              
+                       inspector.address : http://localhost:1839/                            
+                          repo.local.dir : C:\Users\Sahal\bin\Sencha\Cmd\repo                
+        system.java.net.useSystemProxies : true                                              
+                        theme.base.names : null                                              
+                     theme.base.packages : null                                              
+                              theme.name : ext-theme-neptune                                 
+
+Exception information:
+=======================
+java.lang.NullPointerException
+     at com.sencha.command.environment.AppOrPackageEnvironment.loadFrameworkConfig(AppOrPackageEnvironment.java:107)
+     at com.sencha.command.environment.AppEnvironment.<init>(AppEnvironment.java:54)
+     at com.sencha.command.environment.BuildEnvironment.load(BuildEnvironment.java:106)
+     at com.sencha.command.environment.BuildEnvironment.load(BuildEnvironment.java:130)
+     at com.sencha.command.environment.BuildEnvironment.load(BuildEnvironment.java:76)
+     at com.sencha.command.environment.AppEnvironment.mustGetAppEnvironment(AppEnvironment.java:336)
+     at com.sencha.command.BaseSenchaCommand.mustGetAppEnvironment(BaseSenchaCommand.java:58)
+     at com.sencha.command.app.AppCommands$BuildCommand.execute(AppCommands.java:342)
+     at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+     at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+     at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+     at java.lang.reflect.Method.invoke(Unknown Source)
+     at com.sencha.util.MethodInvoker$Arguments.invoke(MethodInvoker.java:175)
+     at com.sencha.cli.Command.dispatch(Command.java:43)
+     at com.sencha.command.BasePluginCommands$BasePluginCommand.dispatch(BasePluginCommands.java:222)
+     at com.sencha.cli.Commands.dispatch(Commands.java:64)
+     at com.sencha.cli.Commands.dispatch(Commands.java:64)
+     at com.sencha.command.Sencha.dispatch(Sencha.java:74)
+     at com.sencha.command.Sencha.main(Sencha.java:142)
+     at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+     at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+     at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+     at java.lang.reflect.Method.invoke(Unknown Source)
+     at com.exe4j.runtime.LauncherEngine.launch(Unknown Source)
+     at com.exe4j.runtime.WinLauncher.main(Unknown Source)
+     at com.install4j.runtime.launcher.WinLauncher.main(Unknown Source)
+

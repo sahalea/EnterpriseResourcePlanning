@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html manifest="">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+
+    <title>Amazing JavaScript</title>
+
+    <link rel="stylesheet" type="text/css" href="ext/packages/ext-theme-classic/build/resources/ext-theme-classic-all-debug.css" />
+    <link rel="stylesheet" type="text/css" href="login/flags.css" />
+    <link rel="stylesheet" type="text/css" href="login/IconCombo.css" />
+    <link rel="stylesheet" type="text/css" href="login/LoginDialog.css" />
+
+    
+    <!-- The line below must be kept intact for Sencha Cmd to build your application -->
+    <script type="text/javascript" src="ext/build/ext-all-debug.js"></script>
+    <script type="text/javascript" src="login/IconCombo.js"></script>
+    <script type="text/javascript" src="login/LoginDialog.js"></script>
+
+
+    <script>
+        Ext.onReady(function() {
+            Ext.tip.QuickTipManager.init();
+
+            var loginDialog = Ext.create('Ext.ux.LoginDialog', {
+                forgotPasswordLink: '<a href="http://support.microsoft.com/kb/189126" target="_blank">Forgot Password ?</a>',
+                formPanel: {    
+                    url: '/users/login.php'
+                }
+            });
+
+            loginDialog.show();
+        });
+    </script>
+
+</head>
+<body></body>
+</html>
+ 

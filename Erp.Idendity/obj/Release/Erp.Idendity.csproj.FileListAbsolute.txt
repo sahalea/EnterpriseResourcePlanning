@@ -1,0 +1,38 @@
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Erp.Idendity.dll.config
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Erp.Idendity.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Erp.Idendity.pdb
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\EntityFramework.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Owin.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\obj\Release\Erp.Idendity.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\obj\Release\Erp.Idendity.dll
+C:\Users\Sahal\Documents\Visual Studio 2015\Projects\Enterprise Resource Planning\Erp.Idendity\obj\Release\Erp.Idendity.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Erp.Idendity.dll.config
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Erp.Idendity.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Erp.Idendity.pdb
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\EntityFramework.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.Security.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Owin.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\bin\Release\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\obj\Release\Erp.Idendity.csprojResolveAssemblyReference.cache
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\obj\Release\Erp.Idendity.dll
+C:\Users\Sahal\Videos\Enterprise Resource Planning\Erp.Idendity\obj\Release\Erp.Idendity.pdb

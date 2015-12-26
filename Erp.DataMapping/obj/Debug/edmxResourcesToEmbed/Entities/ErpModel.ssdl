@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ErpModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2005" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Company">
+    <Key>
+      <PropertyRef Name="CompanyId" />
+    </Key>
+    <Property Name="CompanyId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="255" />
+    <Property Name="Address" Type="nvarchar" MaxLength="500" />
+    <Property Name="MobileNumber" Type="nvarchar" MaxLength="20" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Website" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="CountryId" />
+    </Key>
+    <Property Name="CountryId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="255" />
+    <Property Name="CountryCode" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="DeliveryTerm">
+    <Key>
+      <PropertyRef Name="DeliveryTermsId" />
+    </Key>
+    <Property Name="DeliveryTermsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="100" />
+    <Property Name="Description" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="PaymentTerm">
+    <Key>
+      <PropertyRef Name="PaymentTermsId" />
+    </Key>
+    <Property Name="PaymentTermsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="100" />
+    <Property Name="Description" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="Unit">
+    <Key>
+      <PropertyRef Name="UnitId" />
+    </Key>
+    <Property Name="UnitId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="ContactPerson">
+    <Key>
+      <PropertyRef Name="ContactId" />
+    </Key>
+    <Property Name="ContactId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerId" Type="int" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Designation" Type="nvarchar" MaxLength="255" />
+    <Property Name="MobileNumber" Type="nvarchar" MaxLength="20" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="CompanyId" Type="int" />
+    <Property Name="CustomerCode" Type="nvarchar" MaxLength="50" />
+    <Property Name="Name" Type="nvarchar" MaxLength="255" />
+    <Property Name="PostBox" Type="nvarchar" MaxLength="50" />
+    <Property Name="TelephoneNumber" Type="nvarchar" MaxLength="50" />
+    <Property Name="MobileNumber" Type="nvarchar" MaxLength="50" />
+    <Property Name="Fax" Type="nvarchar" MaxLength="50" />
+    <Property Name="City" Type="nvarchar" MaxLength="255" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Website" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="CustomerDetails">
+    <Key>
+      <PropertyRef Name="CustomerDetailId" />
+    </Key>
+    <Property Name="CustomerDetailId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerId" Type="int" />
+    <Property Name="PaymentTermsId" Type="int" />
+    <Property Name="DeliveryTermsId" Type="int" />
+    <Property Name="GeneralLedger" Type="nvarchar" MaxLength="500" />
+    <Property Name="OpeningBalance" Type="int" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <Association Name="FK_ContactPerson_Customer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <End Role="ContactPerson" Type="Self.ContactPerson" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerId" />
+      </Principal>
+      <Dependent Role="ContactPerson">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Customer_Company">
+    <End Role="Company" Type="Self.Company" Multiplicity="0..1" />
+    <End Role="Customer" Type="Self.Customer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="CompanyId" />
+      </Principal>
+      <Dependent Role="Customer">
+        <PropertyRef Name="CompanyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Customer_Country1">
+    <End Role="Country" Type="Self.Country" Multiplicity="0..1" />
+    <End Role="Customer" Type="Self.Customer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="CountryId" />
+      </Principal>
+      <Dependent Role="Customer">
+        <PropertyRef Name="CountryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CustomerDetails_Customer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <End Role="CustomerDetails" Type="Self.CustomerDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerId" />
+      </Principal>
+      <Dependent Role="CustomerDetails">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CustomerDetails_DeliveryTerm">
+    <End Role="DeliveryTerm" Type="Self.DeliveryTerm" Multiplicity="0..1" />
+    <End Role="CustomerDetails" Type="Self.CustomerDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DeliveryTerm">
+        <PropertyRef Name="DeliveryTermsId" />
+      </Principal>
+      <Dependent Role="CustomerDetails">
+        <PropertyRef Name="DeliveryTermsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CustomerDetails_PaymentTerm">
+    <End Role="PaymentTerm" Type="Self.PaymentTerm" Multiplicity="0..1" />
+    <End Role="CustomerDetails" Type="Self.CustomerDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PaymentTerm">
+        <PropertyRef Name="PaymentTermsId" />
+      </Principal>
+      <Dependent Role="CustomerDetails">
+        <PropertyRef Name="PaymentTermsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ErpModelStoreContainer">
+    <EntitySet Name="Company" EntityType="Self.Company" Schema="Common" store:Type="Tables" />
+    <EntitySet Name="Country" EntityType="Self.Country" Schema="Common" store:Type="Tables" />
+    <EntitySet Name="DeliveryTerm" EntityType="Self.DeliveryTerm" Schema="Common" store:Type="Tables" />
+    <EntitySet Name="PaymentTerm" EntityType="Self.PaymentTerm" Schema="Common" store:Type="Tables" />
+    <EntitySet Name="Unit" EntityType="Self.Unit" Schema="Common" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ContactPerson" EntityType="Self.ContactPerson" Schema="Sales" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="Sales" store:Type="Tables" />
+    <EntitySet Name="CustomerDetails" EntityType="Self.CustomerDetails" Schema="Sales" store:Type="Tables" />
+    <AssociationSet Name="FK_ContactPerson_Customer" Association="Self.FK_ContactPerson_Customer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="ContactPerson" EntitySet="ContactPerson" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Customer_Company" Association="Self.FK_Customer_Company">
+      <End Role="Company" EntitySet="Company" />
+      <End Role="Customer" EntitySet="Customer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Customer_Country1" Association="Self.FK_Customer_Country1">
+      <End Role="Country" EntitySet="Country" />
+      <End Role="Customer" EntitySet="Customer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CustomerDetails_Customer" Association="Self.FK_CustomerDetails_Customer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="CustomerDetails" EntitySet="CustomerDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CustomerDetails_DeliveryTerm" Association="Self.FK_CustomerDetails_DeliveryTerm">
+      <End Role="DeliveryTerm" EntitySet="DeliveryTerm" />
+      <End Role="CustomerDetails" EntitySet="CustomerDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CustomerDetails_PaymentTerm" Association="Self.FK_CustomerDetails_PaymentTerm">
+      <End Role="PaymentTerm" EntitySet="PaymentTerm" />
+      <End Role="CustomerDetails" EntitySet="CustomerDetails" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

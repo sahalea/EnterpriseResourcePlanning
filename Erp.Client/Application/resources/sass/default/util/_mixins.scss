@@ -1,0 +1,30 @@
+
+
+@mixin icon($icon, $path) {
+	.#{$icon} {
+		background-image: url('#{$path}') !important;
+	}
+}
+
+@mixin icon-16($icon-collections) {
+	@each $icon in $icon-collections {
+		@include icon($icon, $icon-base-path + '/16/' + $icon + '.png');
+	}
+}
+
+@mixin icon-32($icon-collections) {
+  @each $icon in $icon-collections {
+    @include icon($icon, $icon-base-path + '/32/' + $icon + '.png');
+  }
+}
+
+@mixin linear-gradient($fromColor, $toColor) {
+  background-color: $toColor; /* Fallback Color */
+  background-image: -webkit-gradient(linear, left top, left bottom, from($fromColor), to($toColor)); /* Saf4+, Chrome */
+  background-image: -webkit-linear-gradient(top, $fromColor, $toColor); /* Chrome 10+, Saf5.1+, iOS 5+ */
+  background-image:    -moz-linear-gradient(top, $fromColor, $toColor); /* FF3.6 */
+  background-image:     -ms-linear-gradient(top, $fromColor, $toColor); /* IE10 */
+  background-image:      -o-linear-gradient(top, $fromColor, $toColor); /* Opera 11.10+ */
+  background-image:         linear-gradient(top, $fromColor, $toColor);
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#{$fromColor}', EndColorStr='#{$toColor}');
+}
